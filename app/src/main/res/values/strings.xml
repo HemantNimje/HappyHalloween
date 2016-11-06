@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Happy Halloween</string>
+    <string name="greetings_text">Wish you all a very happy halloween!</string>
+    <string name="from">From, Zuilee!</string>
+    <string name="from_text_content_description">Represents the name of the well wisher.</string>
+
 </resources>
